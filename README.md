@@ -23,14 +23,15 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `requirements.txt`.
 3. Explore the code and resources in the repository.
-4. [Add any specific instructions for running the code or using the models for each architecture.]
+
 
 ## Contributions
-Contributions to the project are welcome. If you'd like to contribute, please follow the guidelines in [CONTRIBUTING.md](link-to-CONTRIBUTING.md).
+Contributions to the project are welcome. If you'd like to contribute
 
 ## License
-[Add details about the license under which the project is released.]
+[]
 
 ## Acknowledgments
-[Optional: Add acknowledgments for any individuals, organizations, or resources that were helpful in completing the project.]
+[ Inueron, Data research group
+]
 
