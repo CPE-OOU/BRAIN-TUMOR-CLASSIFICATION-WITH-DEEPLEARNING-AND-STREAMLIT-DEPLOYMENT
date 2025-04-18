@@ -10,7 +10,7 @@ This repository contains the code and resources for my final year project as a c
 - **University:** Olabisi Onabanjo University
 
 ## Project Description
-The project involves a comparative analysis of InceptionV3, ResNet50, and VGG architectures for the classification of brain tumor images. Each architecture is trained on a dataset of brain tumor images, and their performance is evaluated based on accuracy, precision, recall, and F1 score. The repository contains the code for data preprocessing, model training, evaluation, and inference for each architecture.
+The project involves a comparative analysis of InceptionV3, ResNet50, VGG, Inception-Resnet and EfficientNet architectures for the classification of brain tumor images. Each architecture is trained on a dataset of brain tumor images, and their performance is evaluated based on accuracy, precision, recall, and F1 score. The repository contains the code for data preprocessing, model training, evaluation, and inference for each architecture.
 
 ## Repository Structure
 - Jupyter notebook file
