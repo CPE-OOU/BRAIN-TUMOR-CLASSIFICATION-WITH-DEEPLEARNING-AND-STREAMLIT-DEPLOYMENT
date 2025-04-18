@@ -1,7 +1,7 @@
 
 # Brain Tumor Classification
 
-This repository contains the code and resources for my final year project as a computer engineering student at Olabisi Onabanjo University. The project focuses on a comparative analysis of different CNN architectures for the classification of brain tumors using deep learning techniques. The goal of the project is to compare the performance of InceptionV3, ResNet50, and VGG architectures in classifying brain tumor images, aiding in the diagnosis and treatment of brain tumors.
+This repository contains the code and resources for my final year project as a computer engineering student at Olabisi Onabanjo University. The project focuses on a comparative analysis of different CNN architectures for the classification of brain tumors using deep learning techniques. The goal of the project is to compare the performance of InceptionV3, ResNet50, VGG, Inception-Resnet and EfficientNet architectures in classifying brain tumor images, aiding in the diagnosis and treatment of brain tumors.
 
 ## Project Details
 - **Project Title:** Brain Tumor Classification
